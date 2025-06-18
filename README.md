@@ -1,1 +1,107 @@
 # NATURE
+@@ -0,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New Detox | Emagreça com Saúde</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #2ecc71;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .button {
+      background: #e67e22;
+      color: white;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      text-decoration: none;
+      border-radius: 8px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    footer {
+      background: #f1f1f1;
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>NEW DETOX - Sua Jornada de Emagrecimento Começa Aqui!</h1>
+    <p>Desintoxique seu corpo, perca peso com saúde e ganhe qualidade de vida!</p>
+    <a class="button" href="https://ev.braip.com/ref?pv=proxxzoe&af=afi28zyoxn" target="_blank">Quero Começar Agora!</a>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>✨ O Que é o New Detox?</h2>
+      <p>O New Detox é um suplemento 100% natural que acelera a queima de gordura, desincha e regula o intestino. Ideal para quem busca saúde e emagrecimento duradouro sem efeitos colaterais.</p>
+      <img src="CRIATIVO.jpg" alt="New Detox Produto">
+    </div>
+
+    <div class="section">
+      <h2>🔥 Benefícios Comprovados</h2>
+      <ul>
+        <li>Reduz o inchaço abdominal</li>
+        <li>Acelera o metabolismo</li>
+        <li>Melhora o trânsito intestinal</li>
+        <li>Auxilia na queima de gordura localizada</li>
+        <li>Aumenta sua disposição no dia a dia</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📸 Antes e Depois de Quem Usou</h2>
+      <img src="QUEM USA TEM RESULTADO! (1).png" alt="Antes e Depois New Detox">
+      <p>Milhares de pessoas já testaram e aprovaram! Veja os resultados reais e transforme o seu corpo com segurança e saúde.</p>
+    </div>
+
+    <div class="section">
+      <h2>💬 Depoimentos Reais</h2>
+      <p>"Perdi 7kg em 1 mês e ganhei autoestima de volta!" – Ana Clara</p>
+      <p>"Depois de anos lutando com meu peso, finalmente encontrei algo que funciona!" – Marcelo</p>
+    </div>
+
+    <div class="section" style="text-align: center;">
+      <h2>🚀 Comece Agora a Sua Transformação!</h2>
+      <a class="button" href="https://ev.braip.com/ref?pv=proxxzoe&af=afi28zyoxn" target="_blank">Compre com Desconto Exclusivo</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>Site não oficial - Produto vendido através da plataforma segura Braip</p>
+    <p>Garantia de 7 dias direto com o fabricante. Sua saúde em primeiro lugar!</p>
+  </footer>
+
+</body>
+</html>
